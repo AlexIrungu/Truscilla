@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Truscilla/static/css/main.683661bd.css",
-    "main.js": "/Truscilla/static/js/main.143fda7c.js",
+    "main.css": "/Truscilla/static/css/main.93503330.css",
+    "main.js": "/Truscilla/static/js/main.16ff31ad.js",
     "static/js/453.d585524a.chunk.js": "/Truscilla/static/js/453.d585524a.chunk.js",
+    "static/media/DDD.png": "/Truscilla/static/media/DDD.8e1776a910cdf3499b85.png",
+    "static/media/peng.png": "/Truscilla/static/media/peng.e257ebcf7d319113aeda.png",
     "index.html": "/Truscilla/index.html",
-    "main.683661bd.css.map": "/Truscilla/static/css/main.683661bd.css.map",
-    "main.143fda7c.js.map": "/Truscilla/static/js/main.143fda7c.js.map",
+    "main.93503330.css.map": "/Truscilla/static/css/main.93503330.css.map",
+    "main.16ff31ad.js.map": "/Truscilla/static/js/main.16ff31ad.js.map",
     "453.d585524a.chunk.js.map": "/Truscilla/static/js/453.d585524a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.683661bd.css",
-    "static/js/main.143fda7c.js"
+    "static/css/main.93503330.css",
+    "static/js/main.16ff31ad.js"
   ]
 }
