@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Truscilla/static/css/main.16d447d0.css",
-    "main.js": "/Truscilla/static/js/main.6d8402f2.js",
+    "main.css": "/Truscilla/static/css/main.683661bd.css",
+    "main.js": "/Truscilla/static/js/main.143fda7c.js",
     "static/js/453.d585524a.chunk.js": "/Truscilla/static/js/453.d585524a.chunk.js",
     "index.html": "/Truscilla/index.html",
-    "main.16d447d0.css.map": "/Truscilla/static/css/main.16d447d0.css.map",
-    "main.6d8402f2.js.map": "/Truscilla/static/js/main.6d8402f2.js.map",
+    "main.683661bd.css.map": "/Truscilla/static/css/main.683661bd.css.map",
+    "main.143fda7c.js.map": "/Truscilla/static/js/main.143fda7c.js.map",
     "453.d585524a.chunk.js.map": "/Truscilla/static/js/453.d585524a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16d447d0.css",
-    "static/js/main.6d8402f2.js"
+    "static/css/main.683661bd.css",
+    "static/js/main.143fda7c.js"
   ]
 }
