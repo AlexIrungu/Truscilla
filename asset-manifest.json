@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Truscilla/static/css/main.5bb4974d.css",
-    "main.js": "/Truscilla/static/js/main.941f7daa.js",
+    "main.css": "/Truscilla/static/css/main.b73e7ea8.css",
+    "main.js": "/Truscilla/static/js/main.cf6e2e5f.js",
     "static/js/453.d585524a.chunk.js": "/Truscilla/static/js/453.d585524a.chunk.js",
     "static/media/DDD.png": "/Truscilla/static/media/DDD.8e1776a910cdf3499b85.png",
     "static/media/peng.png": "/Truscilla/static/media/peng.e257ebcf7d319113aeda.png",
     "index.html": "/Truscilla/index.html",
-    "main.5bb4974d.css.map": "/Truscilla/static/css/main.5bb4974d.css.map",
-    "main.941f7daa.js.map": "/Truscilla/static/js/main.941f7daa.js.map",
+    "main.b73e7ea8.css.map": "/Truscilla/static/css/main.b73e7ea8.css.map",
+    "main.cf6e2e5f.js.map": "/Truscilla/static/js/main.cf6e2e5f.js.map",
     "453.d585524a.chunk.js.map": "/Truscilla/static/js/453.d585524a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bb4974d.css",
-    "static/js/main.941f7daa.js"
+    "static/css/main.b73e7ea8.css",
+    "static/js/main.cf6e2e5f.js"
   ]
 }
